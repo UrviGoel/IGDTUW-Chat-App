@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">884070693912-vic13gq090eqc10a37n1jki1b8m5v576.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">884070693912</string>
+    <string name="google_api_key" translatable="false">AIzaSyD7mWyigzM5cZQBKo8FC1FGpPlI_VIxSKI</string>
+    <string name="google_app_id" translatable="false">1:884070693912:android:fbf70bd84352d73765576d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD7mWyigzM5cZQBKo8FC1FGpPlI_VIxSKI</string>
+    <string name="google_storage_bucket" translatable="false">igdtuw-chat-app.appspot.com</string>
+    <string name="project_id" translatable="false">igdtuw-chat-app</string>
+</resources>

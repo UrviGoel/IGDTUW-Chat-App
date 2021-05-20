@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "884070693912",
+    "project_id": "igdtuw-chat-app",
+    "storage_bucket": "igdtuw-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884070693912:android:fbf70bd84352d73765576d",
+        "android_client_info": {
+          "package_name": "com.example.igdtuw_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884070693912-vic13gq090eqc10a37n1jki1b8m5v576.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7mWyigzM5cZQBKo8FC1FGpPlI_VIxSKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884070693912-vic13gq090eqc10a37n1jki1b8m5v576.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884070693912:android:3689c670ac687f0665576d",
+        "android_client_info": {
+          "package_name": "com.igdtuw.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884070693912-vic13gq090eqc10a37n1jki1b8m5v576.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7mWyigzM5cZQBKo8FC1FGpPlI_VIxSKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884070693912-vic13gq090eqc10a37n1jki1b8m5v576.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
